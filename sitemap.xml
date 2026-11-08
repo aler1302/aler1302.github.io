@@ -1,39 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aler1302.github.io/rualternatives/</loc>
+    <loc>https://aler1302.github.io/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/notion-alternative.html</loc>
+    <loc>https://aler1302.github.io/notion-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/figma-alternative.html</loc>
+    <loc>https://aler1302.github.io/figma-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/trello-alternative.html</loc>
+    <loc>https://aler1302.github.io/trello-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/asana-alternative.html</loc>
+    <loc>https://aler1302.github.io/asana-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/salesforce-alternative.html</loc>
+    <loc>https://aler1302.github.io/monday-com-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/wordpress-alternative.html</loc>
+    <loc>https://aler1302.github.io/salesforce-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/aws-ec2-alternative.html</loc>
+    <loc>https://aler1302.github.io/hubspot-alternative.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aler1302.github.io/rualternatives/digitalocean-alternative.html</loc>
+    <loc>https://aler1302.github.io/zendesk-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/airtable-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/zoom-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/slack-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/basecamp-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/wrike-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/wordpress-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/joomla-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/drupal-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/aws-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/aws-ec2-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/digitalocean-alternative.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aler1302.github.io/shopify-alternative.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
